@@ -1,0 +1,11 @@
+# Automate your test cases with IR Automation
+# can be used in 
+  : web service call response checking
+  : shell script execution on remote server
+  : file related manipulation
+  : DB related operations
+  : web service call with previous output
+  : automatic test data creation
+  : test result prepration
+  : email reporting
+  : perfomace evaluation
